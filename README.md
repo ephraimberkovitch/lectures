@@ -15,3 +15,4 @@ Discussion on Python concurrency and parallelism best practices
 5. https://realpython.com/async-io-python/
 6. https://python.plainenglish.io/multithreading-vs-asyncio-in-python-ea5cf0887a42
 7. Guido van Rossum, Asynchronous IO Support Rebooted: the "asyncio" Module
+8. https://dylancastillo.co/fast-and-async-in-python-accelerate-your-requests-using-asyncio/#:~:text=asyncio%20is%20a%20Python%20library%20that%20allows%20you,do%20lots%20of%20waiting%20for%20external%20APIs%203.
